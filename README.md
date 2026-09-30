@@ -6,8 +6,9 @@
 
 Building things with code, AI, and a questionable amount of caffeine. ☕
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asad-aman-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-a--sad25-181717?style=for-the-badge&logo=github)](https://github.com/a-sad25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asad-aman-541854289/)
 
 </div>
 
@@ -29,6 +30,8 @@ Building things with code, AI, and a questionable amount of caffeine. ☕
 
 ### 👨‍💻 Languages
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
