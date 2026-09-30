@@ -104,7 +104,7 @@ Real-time face mask detection using **MobileNetV2 transfer learning, TensorFlow/
 
 # 🧠 Currently Exploring
 
-```text
+text
 Artificial Intelligence
        ↓
 Computer Vision
@@ -136,4 +136,4 @@ Real-World Problem Solving
 
 ⭐ If you find something interesting here, feel free to explore my repositories.
 
-</div> ```
+</div>
